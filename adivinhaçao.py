@@ -24,10 +24,10 @@ while True:
 
 
         elif comp > user:
-            print("maior que o numero que voce escolheu")
+            print("maior")
 
         else:
-            print("menor que o numero que voce escolheu")
+            print("menor")
         
     escolha = input("deseja continuar? [S/N]").upper().strip()
 
